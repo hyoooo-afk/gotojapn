@@ -1,0 +1,20 @@
+[
+  {
+    "id": "greetings",
+    "title": "인사",
+    "category": "일상",
+    "level": "N5",
+    "minutes": 5,
+    "sample": "挨拶",
+    "desc": "아침 인사부터 외출할 때 인사까지"
+  },
+  {
+    "id": "self-intro",
+    "title": "자기소개",
+    "category": "일상",
+    "level": "N5",
+    "minutes": 5,
+    "sample": "紹介",
+    "desc": "이름, 출신, 직업, 취미 말하기"
+  }
+]
